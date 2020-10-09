@@ -1,12 +1,16 @@
 1., Projekt feladat TCs (tetőcserép) elindult
 2., Fenn van egy png fájl a feladatról (persze a Classroomban is ott van)
 3., Sikerült 5-ünket a repository-ba felvenni
+4., Elkészült a blokkdiagram png kiterjesztéssel.
+5., Javítások a blokkdiagramon. 2-es végű a javított. Direkt jó, hogy fenn van a korábbi is.
+6., Kódolónak átadva a terv. (Okt. 9. 23 óra.)
 
 
 - - - - 
 Kérdés:
 
 1., Mit kell a Classroomba visszatölteni? Csak a programot? Gábor
+2., Tört szám esetén hogyan kerekítjük a cserepek számát? Gábor
 
 
 - - - -
