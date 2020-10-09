@@ -1,0 +1,12 @@
+1., Projekt feladat TCs (tetőcserép) elindult
+2., Fenn van egy png fájl a feladatról (persze a Classroomban is ott van)
+3., Sikerült 5-ünket a repository-ba felvenni
+
+
+- - - - 
+Kérdés:
+
+1., Mit kell a Classroomba visszatölteni? Csak a programot? Gábor
+
+
+- - - -
